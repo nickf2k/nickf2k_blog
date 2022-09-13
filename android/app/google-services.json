@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "806122804919",
+    "project_id": "nickf2k-blog",
+    "storage_bucket": "nickf2k-blog.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806122804919:android:c4df95e8c4309389e25f32",
+        "android_client_info": {
+          "package_name": "com.example.nickf2k_blog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806122804919-k8sbs332itpc6urjmfoqf1mrl8iv8plq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkUcItKFe01UJmjJAd2QIXUHPea9LvLfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806122804919-k8sbs332itpc6urjmfoqf1mrl8iv8plq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "806122804919-80kpfbb68ql6bo8g821i3jedusq48u1q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nickf2kBlog"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
